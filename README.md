@@ -1,6 +1,7 @@
 # React Form
 This application is a good example to start developing a form in react, the application was made:
-- collect information using react-hook-form
+- Collect information using react-hook-form
+
 ![](docs/img.png)
 # Getting Started with Create React App
 
