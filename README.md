@@ -1,8 +1,6 @@
 # React Form
-This is a basic App to manage simple Notes on the web using Javascript Technologies like Nodejs, Mongodb, and so on.
-This app can:
-- create/read/update/delete Notes
-- Allows a user to do log in and save his personal notes
+This application is a good example to start developing a form in react, the application was made:
+- collect information using react-hook-form
 ![](docs/img.png)
 # Getting Started with Create React App
 
